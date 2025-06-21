@@ -1,0 +1,19 @@
+# Ficheiros e pastas gerados pelo Dart/Flutter.
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+
+# Ficheiros de IDE.
+.idea/
+*.iml
+.vscode/
+
+# Ficheiros de log e outros.
+*.log
+.metadata
+pubspec.lock
+
+# Ficheiros de sistema operativo.
+.DS_Store
